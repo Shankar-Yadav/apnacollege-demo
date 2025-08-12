@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Shankar Yadav
+Author - Shankar Yadav (MCA Student)
